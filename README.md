@@ -1,3 +1,7 @@
+- [GET](#get)
+- [POST](#post)
+- [POST form](#post-form)
+
 # GET
 
 ```js
